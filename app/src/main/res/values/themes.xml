@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.MiraSystemMonitor" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:colorAccent">#50D9FF</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:navigationBarColor">#080B10</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
