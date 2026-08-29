@@ -18,3 +18,8 @@ desktop-agent/tools/
 .tmp-*.png
 ScreenShot_*.png
 device-*.png
+!release/
+!release/*.exe
+!release/*.apk
+!release/screenshots/
+!release/screenshots/*.png

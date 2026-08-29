@@ -14,6 +14,12 @@
 
 电脑端服务：`http://电脑IP:8789/api/v1/status`
 
+## 下载
+
+- Windows：`release/MiraSystemMonitorAgent.exe`
+- Android：`release/MiraSystemMonitor-0.1.0-debug.apk`
+- 项目截图：`release/screenshots/`
+
 Android 端通过 UDP 广播自动发现电脑，不需要手动填写地址。以后可以再加手动地址、NAS 网关或 IPv6。
 
 ## 当前数据
